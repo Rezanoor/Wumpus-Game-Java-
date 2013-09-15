@@ -13,7 +13,7 @@ import java.sql.*;
 
 /**
  *
- * @author s0205911
+ * @author Reza Nourbakhsh
  */
 public class ServerMainClass {
 
