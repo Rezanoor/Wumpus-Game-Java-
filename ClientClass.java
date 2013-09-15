@@ -9,7 +9,7 @@ import java.io.*;
 import java.util.Scanner;
 /**
  *
- * @author s0205911
+ * @author Reza Nourbakhsh
  */
 public class ClientMainClass {
 
